@@ -1,1 +1,31 @@
-# MedCare
+# MedCare Campaign Performance Analysis
+
+### Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Structure](#dataset-structure)
+- [Insights Summary](#insights-summary)
+- [Recommendations](#recommendations)
+- [Dashboard](#dashboard)
+- [Presentation Sample](#presentation-sample)
+
+# Project Overview
+
+Founded in 2016, MedCare is a U.S.-based medical insurance company serving thousands of customers. In 2019, they introduced marketing campaigns focused on wellness tips, affordability, and preventative care. Customers can choose from four plans—bronze, silver, gold, and platinum—offering varying premiums and coverage rates.
+
+# Dataset Structure
+
+The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
+
+![image](https://github.com/user-attachments/assets/0b9119c9-8e15-499a-97a0-193203728228)
+
+
+# Insights Summary
+
+
+# Recommendations
+
+
+# Dashboard
+
+
+# Presentation Sample
