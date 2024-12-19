@@ -16,7 +16,8 @@ Founded in 2016, MedCare is a U.S.-based medical insurance company serving thous
 
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
 
-![image](https://github.com/user-attachments/assets/0b9119c9-8e15-499a-97a0-193203728228)
+<img src="https://github.com/user-attachments/assets/0b9119c9-8e15-499a-97a0-193203728228" width="700">
+
 
 
 # Insights Summary
