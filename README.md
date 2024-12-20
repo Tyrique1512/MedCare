@@ -10,7 +10,11 @@
 
 # Project Overview
 
+## The goal of this project is to investigate the performance of marketing campaigns at MedCare in order to surface recommendations on marketing budget allocation across future campaign categories
+
 Founded in 2016, MedCare is a U.S.-based medical insurance company serving thousands of customers. In 2019, they introduced marketing campaigns focused on wellness tips, affordability, and preventative care. Customers can choose from four plans—bronze, silver, gold, and platinum—offering varying premiums and coverage rates.
+
+Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. The budget is allocated to drive two primary objectives: 1) to increase the number of customer signups, and 2) to raise awareness of MedCare's brand across the country.
 
 # Dataset Structure
 
