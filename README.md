@@ -28,18 +28,22 @@ The dataset consisted of three tables, including information about campaigns, si
 
 In order to evaluate campaign performance, we focused on the following key metrics:
 
-•	**Signup Rate:** The percent of people who see a campaign and subsequently sign up for a Row Health plan.
+•	**Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a Row Health plan.
 
 •	**Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 
 
-•	**Click through Rate:** The percent of people who see a campaign and click on the associated link.
+•	**Click through Rate:** The percentage of people who see a campaign and click on the associated link.
 
 
 # Recommendations
 
 
 # Dashboard
+
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/tyrique.klassen/viz/MedCareDashboard/CampaignCategoryDashboard?publish=yes). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+
+![image](https://github.com/user-attachments/assets/1152d686-a7d2-4fa0-9ea7-171ea89d74a0)
 
 
 # Presentation Sample
