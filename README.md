@@ -28,7 +28,7 @@ The dataset consisted of three tables, including information about campaigns, si
 
 In order to evaluate campaign performance, we focused on the following key metrics:
 
-•	**Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a Row Health plan.
+•	**Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a MedCare plan.
 
 •	**Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 
