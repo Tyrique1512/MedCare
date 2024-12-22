@@ -26,7 +26,9 @@ The dataset consisted of three tables, including information about campaigns, si
 
 # Insights Summary
 
-In order to evaluate campaign performance, we focused on the following key metrics:
+## North Star Metrics
+
+To evaluate campaign performance, the insights focused on the following key metrics:
 
 •	**Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a MedCare plan.
 
@@ -34,6 +36,19 @@ In order to evaluate campaign performance, we focused on the following key metri
 
 
 •	**Click through Rate:** The percentage of people who see a campaign and click on the associated link.
+
+## Marketing Insights
+
+•	Despite achieving the highest number of impressions (1.3 million+), the Tailored Health Plans campaign category has the third lowest click-through rate (7%), which indicates a potential mismatch between the audience reached and the call-to-action. This could suggest that the campaign is attracting users outside the intended demographic or that the marketing content isn't effectively highlighting the unique value of the tailored plans
+
+•	Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
+
+•	The Healthy Living and Tailored Health Plans campaigns have nearly identical total impressions (1,372 million vs. 1,398 million) but show notable performance differences. Healthy Living achieves a higher CTR (10% vs. 7%) and a slightly lower CPC ($0.05 vs. $0.06). 
+
+•	Across categories, Health for All and Benefit Updates performed around 3x better than the average CTR (9%) at 25% and 22%, respectively.
+
+•	The Golden Years Security campaign has the lowest CTR at 1%, resulting in a disproportionately low number of clicks relative to its cost and an abnormally high CPC of $0.68. In contrast, the remaining campaigns are more efficiently budgeted, with CPCs ranging between $0.03 and $0.11.
+
 
 
 # Recommendations
