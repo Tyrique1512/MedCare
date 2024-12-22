@@ -39,7 +39,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Marketing Insights
 
-•	Despite achieving the highest number of impressions (1.3 million+), the Tailored Health Plans campaign category has the third lowest click-through rate (7%), which indicates a potential mismatch between the audience reached and the call-to-action. This could suggest that the campaign is attracting users outside the intended demographic or that the marketing content isn't effectively highlighting the unique value of the tailored plans
+•	Despite achieving the highest number of impressions (1.3 million+), the Tailored Health Plans campaign category has the third lowest click-through rate (7%), which indicates a potential mismatch between the audience reached and the call-to-action.
 
 •	Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
 
@@ -48,7 +48,6 @@ To evaluate campaign performance, the insights focused on the following key metr
 •	Across categories, Health for All and Benefit Updates performed around 3x better than the average CTR (9%) at 25% and 22%, respectively.
 
 •	The Golden Years Security campaign has the lowest CTR at 1%, resulting in a disproportionately low number of clicks relative to its cost and an abnormally high CPC of $0.68. In contrast, the remaining campaigns are more efficiently budgeted, with CPCs ranging between $0.03 and $0.11.
-
 
 
 # Recommendations
