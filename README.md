@@ -64,7 +64,8 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/tyrique.klassen/viz/MedCareDashboard/CampaignCategoryDashboard?publish=yes). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
-![image](https://github.com/user-attachments/assets/1152d686-a7d2-4fa0-9ea7-171ea89d74a0)
+![image](https://github.com/user-attachments/assets/d13b432a-ad25-4d7e-9821-6b76f2b60d96)
+
 
 
 # Presentation Sample
