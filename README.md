@@ -30,12 +30,15 @@ The dataset consisted of three tables, including information about campaigns, si
 
 To evaluate campaign performance, the insights focused on the following key metrics:
 
+•	**Impressions:** The number of people who saw a marketing campaign.
+
+•	**Cost per Click (CPC):** the amount an advertiser pays each time a user clicks on their advertisement
+
 •	**Signup Rate:** The percentage of people who see a campaign and subsequently sign up for a MedCare plan.
 
 •	**Cost per Signup:** The average dollars spent in order to acquire a signup from each campaign.
 
-
-•	**Click through Rate:** The percentage of people who see a campaign and click on the associated link.
+•	**Click through Rate (CTR):** The percentage of people who see a campaign and click on the associated link.
 
 ## Marketing Insights
 
