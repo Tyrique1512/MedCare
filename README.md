@@ -58,7 +58,7 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 •	Health For All campaign category had the strongest performance, achieving 3,545 signups and a signup rate of 2%, approximately 12x higher than the overall average. Golden Years Security has the lowest signup count (23) and the lowest signup rate (0,18%) despite having the highest cost per signup ($177).
 
-•	Despite its strong click through rate, the Benefit Updates campaign category had the second lowest signups (45) and signup rate (0.02%), along with the second highest cost per signup at $48.
+•	Despite its strong click-through rate, the Benefit Updates campaign category had the second lowest signups (45) and signup rate (0.02%), along with the second highest cost per signup at $48.
 
 •	Notably, the #HealthyLiving category had the highest number of signups but a relatively low signup rate of 0.3%.
 
@@ -71,15 +71,16 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 •	Customers for the Compare Health Coverage campaign had the most expensive claims on average ($410) and the highest total claim amount ($3.9M).  
 
-•	The average claim amount for this campaign category was ~50% higher than the $267 average, which raises concerns about its cost effectiveness and sustainability. 
+•	The average claim amount for this campaign category was ~50% higher than the $267 average, which raises concerns about its cost-effectiveness and sustainability. 
 
 
 # Recommendations
 
-**•	Golden Years Security:** Consider discontinuing or overhauling this campaign due to its low click-through rate (1%) and high cost per signup ($177). Reallocate its budget to more effective campaigns such as the Health For All and Benefit Updates campaigns, which have significantly higher click-through rates (25% and 22%, respectively) and demonstrate better engagement compared to the average.
+**•	Golden Years Security:** Consider discontinuing or overhauling this campaign due to its low click-through rate (1%) and high cost per signup ($177). Reallocate its budget to the Health For All Campaign, which has a stronger click-through rate (25%) and signup rate (2%). 
 
 **•	Family Coverage Plan:** Investigate the lack of clicks despite high impressions, as there are likely issues with the campaign or missing data.
 
+**• Compare Health Coverage:** Collaborate with the actuarial team to analyze this campaign category's demographics and health needs to ensure the campaign isn’t attracting higher-risk profiles than planned.
 
 # Dashboard
 
