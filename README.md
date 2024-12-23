@@ -52,6 +52,8 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 •	The Golden Years Security campaign has the lowest CTR at 1%, resulting in a disproportionately low number of clicks relative to its cost and an abnormally high CPC of $0.68. In contrast, the remaining campaigns are more efficiently budgeted, with CPCs ranging between $0.03 and $0.11.
 
+## Signup Insights
+
 
 # Recommendations
 
