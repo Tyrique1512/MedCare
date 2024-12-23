@@ -55,6 +55,8 @@ To evaluate campaign performance, the insights focused on the following key metr
 ## Signup Insights
 
 
+## Claims Insights
+
 # Recommendations
 
 
