@@ -67,6 +67,13 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Claims Insights
 
+•	Claim counts and amounts rose at the pandemic's onset alongside increased signups and have remained steady across most campaign categories, except for the Compare Health Coverage campaign. This campaign steadily increased throughout 2021 - 2022, peaking at a record-high of $173K in July 2022 before significantly decreasing in the following months due to a decrease in claim counts.
+
+•	Customers for the Compare Health Coverage campaign had the most expensive claims on average ($410) and the highest total claim amount ($3.9M).  
+
+•	The average claim amount for this campaign category was ~50% higher than the $267 average, which raises concerns about its cost effectiveness and sustainability. 
+
+
 # Recommendations
 
 
