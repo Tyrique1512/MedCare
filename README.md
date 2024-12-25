@@ -78,6 +78,8 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 # Recommendations
 
+Recommendations focus on two strategies: removing ineffective campaign categories and reallocating budget towards categories with better performance across north star metrics.
+
 **•	Golden Years Security:** Consider discontinuing or overhauling this campaign due to its low click-through rate (1%) and high cost per signup ($177). Reallocate its budget to the Health For All Campaign, which has a stronger click-through rate (25%) and signup rate (2%). 
 
 **•	Family Coverage Plan:** Investigate the lack of clicks despite high impressions, as there are likely issues with the campaign or missing data.
