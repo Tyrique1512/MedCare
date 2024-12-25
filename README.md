@@ -54,11 +54,9 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 ## Signup Insights
 
-•	In 2020, all campaign categories experienced a significant rise in signups due to increased demand for healthcare products during the pandemic.
+•	In 2020, all campaign categories experienced a significant rise in signups due to increased demand for healthcare products during the pandemic. While the pandemic initially boosted signups, most categories experienced a decline from mid-2022 onwards, with recent signups falling below pre-pandemic levels. However, the #Coverage Matters and #HealthyLiving categories have shown resilience, collectively accounting for approximately 47% of recent signups. Some COVID-based campaigns also had abnormally high CACs at $1.2-$2.2K
 
-•	Health For All campaign category had the strongest performance, achieving 3,5k signups and a signup rate of 2%, approximately 12x higher than the overall average. 
-
-• This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%)
+•	Health For All campaign category had the strongest performance, achieving 3,5k signups and a signup rate of 2%, approximately 12x higher than the overall average. This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%)
 
 • Golden Years Security has the lowest signup count (23) and the lowest signup rate (0,18%) despite having the highest cost per signup ($177).
 
@@ -67,10 +65,6 @@ To evaluate campaign performance, the insights focused on the following key metr
 •	Notably, the #HealthyLiving category had the highest number of signups but a relatively low signup rate of 0.3%.
 
 •	Within the two campaign categories with the highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
-
-•	Some COVID-based campaigns also had abnormally high CACs at $1.2-$2.2K
-
-•	While the pandemic initially boosted signups, most categories experienced a decline from mid-2022 onwards, with recent signups falling below pre-pandemic levels. However, the #Coverage Matters and #HealthyLiving categories have shown resilience, collectively accounting for approximately 47% of recent signups.
 
 
 ## Claims Insights
