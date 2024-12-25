@@ -56,11 +56,19 @@ To evaluate campaign performance, the insights focused on the following key metr
 
 •	In 2020, all campaign categories experienced a significant rise in signups due to increased demand for healthcare products during the pandemic.
 
-•	Health For All campaign category had the strongest performance, achieving 3,545 signups and a signup rate of 2%, approximately 12x higher than the overall average. Golden Years Security has the lowest signup count (23) and the lowest signup rate (0,18%) despite having the highest cost per signup ($177).
+•	Health For All campaign category had the strongest performance, achieving 3,5k signups and a signup rate of 2%, approximately 12x higher than the overall average. 
+
+• This high signup rate is due to the Health Awareness campaign type, which had by far the highest signup rate across all campaign types (3.72%)
+
+• Golden Years Security has the lowest signup count (23) and the lowest signup rate (0,18%) despite having the highest cost per signup ($177).
 
 •	Despite its strong click-through rate, the Benefit Updates campaign category had the second lowest signups (45) and signup rate (0.02%), along with the second highest cost per signup at $48.
 
 •	Notably, the #HealthyLiving category had the highest number of signups but a relatively low signup rate of 0.3%.
+
+•	Within the two campaign categories with the highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup.
+
+•	Some COVID-based campaigns also had abnormally high CACs at $1.2-$2.2K
 
 •	While the pandemic initially boosted signups, most categories experienced a decline from mid-2022 onwards, with recent signups falling below pre-pandemic levels. However, the #Coverage Matters and #HealthyLiving categories have shown resilience, collectively accounting for approximately 47% of recent signups.
 
@@ -81,6 +89,10 @@ To evaluate campaign performance, the insights focused on the following key metr
 **•	Family Coverage Plan:** Investigate the lack of clicks despite high impressions, as there are likely issues with the campaign or missing data.
 
 **• Compare Health Coverage:** Collaborate with the actuarial team to analyze this campaign category's demographics and health needs to ensure the campaign isn’t attracting higher-risk profiles than planned.
+
+**Health Awareness:** Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+
+**COVID Campaigns:** Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $3,70. Consider removing these campaigns altogether.
 
 # Dashboard
 
