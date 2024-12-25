@@ -86,9 +86,9 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 
 **• Compare Health Coverage:** Collaborate with the actuarial team to analyze this campaign category's demographics and health needs to ensure the campaign isn’t attracting higher-risk profiles than planned.
 
-**Health Awareness:** Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+**•	Health Awareness:** Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
 
-**COVID Campaigns:** Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $3,70. Consider removing these campaigns altogether.
+**•	COVID Campaigns:** Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $3,70. Consider removing these campaigns altogether.
 
 # Dashboard
 
