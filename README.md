@@ -94,7 +94,14 @@ Recommendations focus on two strategies: removing ineffective campaign categorie
 
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/tyrique.klassen/viz/MedCareDashboard/CampaignCategoryDashboard?publish=yes). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
-![image](https://github.com/user-attachments/assets/d13b432a-ad25-4d7e-9821-6b76f2b60d96)
+![image](https://github.com/user-attachments/assets/40185093-0efd-4a1d-a956-ba162ed58e8c)
+
+
+![image](https://github.com/user-attachments/assets/86b18657-f6bb-4077-a360-24e39bfe35f4)
+
+
+![image](https://github.com/user-attachments/assets/9f67f123-c725-4fb9-87ad-5bec42c451b6)
+
 
 
 
